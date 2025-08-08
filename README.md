@@ -1,1 +1,1 @@
-read and write code
+updating sample
